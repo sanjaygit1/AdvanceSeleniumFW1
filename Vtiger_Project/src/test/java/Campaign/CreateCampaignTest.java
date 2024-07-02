@@ -63,7 +63,7 @@ public class CreateCampaignTest extends BaseClass {
 //  SoftAssert soft = new SoftAssert();
 //  soft.assertEquals(actData, campaginName);
 //  soft.assertAll();
-	
+	//done
 	}
 
 }
